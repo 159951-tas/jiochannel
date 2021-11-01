@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:BANDWIDTH=2128000,RESOLUTION=854x480
+https://d3nppe62gtgo2z.cloudfront.net/out/v1/ed69589bb241446ca7e4c72126886cab/index.m3u8
